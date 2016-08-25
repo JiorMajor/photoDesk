@@ -1,0 +1,28 @@
+{
+  "name": "photodesk",
+  "version": "1.0.0",
+  "description": "Workspace for photographers",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiorMajor/photoDesk.git"
+  },
+  "keywords": [
+    "photodesk",
+    "photographers",
+    "photographs",
+    "journalist"
+  ],
+  "author": "John Major",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiorMajor/photoDesk/issues"
+  },
+  "homepage": "https://github.com/JiorMajor/photoDesk#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
